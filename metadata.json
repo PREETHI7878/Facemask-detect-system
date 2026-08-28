@@ -1,0 +1,6 @@
+{
+  "name": "Face Mask Detection",
+  "description": "Computer vision application to detect face mask usage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
